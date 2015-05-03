@@ -1,0 +1,27 @@
+{
+  "name": "a-http-server-plugin-upload",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "A Http Server Plugin Upload",
+  "keywords": [
+    "a",
+    "http",
+    "server",
+    "plugin",
+    "upload"
+  ],
+  "dependencies": {
+    "mkdirp": "",
+    "multer": "",
+    "a-http-server-config-fn": ""
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/a-http-server-plugin-upload",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-http-server-plugin-upload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-http-server-plugin-upload/issues"
+  }
+}
